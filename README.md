@@ -1,1 +1,1 @@
-Python-Programming-MGMT-288-Archive
+Notes from MGMT 288.
